@@ -15,6 +15,7 @@
         <li>Seguimiento de archivos</li>
         <li>Hstorial de cambios</li>
         <li>Deshacer cambios y etiquetas</li>
+        <li>Test modificado</li>
     </ul>
     
 </body>
